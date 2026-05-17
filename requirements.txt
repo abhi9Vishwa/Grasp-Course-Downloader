@@ -1,0 +1,9 @@
+# Grasp.Study Course Downloader – Python dependencies
+# Install with:  pip install -r requirements.txt
+
+selenium>=4.10.0
+webdriver-manager>=4.0.0   # auto-downloads the correct ChromeDriver
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+requests>=2.31.0
+html2text>=2024.1.0
